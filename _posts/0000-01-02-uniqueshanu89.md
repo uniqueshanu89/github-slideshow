@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: Slide
 title: "Welcome to our uniqueshanu89's slide!"
 ---
 This is my awesome slide
